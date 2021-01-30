@@ -158,7 +158,6 @@ For any additional questions, please reach out via email at santana2.miguel@gmai
 
 ├── README.md               <- The top-level README for reviewers of this project.
 ├── PCA_Clustering.ipynb     <- narrative documentation of analysis in jupyter notebook
-├── presentation.pdf        <- pdf version of project presentation
 
 ```
 
