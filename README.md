@@ -147,7 +147,7 @@ Ultimately, the analysis shows a clear trend in baby boomers who are getting clo
 
 ### For further information
 
-Please review the narrative of my analysis in [my jupyter notebook.](./PCA_Clustering.ipynb)
+Please review the narrative of my analysis in [my jupyter notebook.](./jupyter_notebook.ipynb)
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
@@ -157,7 +157,7 @@ For any additional questions, please reach out via email at santana2.miguel@gmai
 ```
 
 ├── README.md               <- The top-level README for reviewers of this project.
-├── PCA_Clustering.ipynb     <- narrative documentation of analysis in jupyter notebook
+├── jupyter_notebook.ipynb     <- narrative documentation of analysis in jupyter notebook
 
 ```
 
